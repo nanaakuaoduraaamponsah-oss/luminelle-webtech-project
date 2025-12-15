@@ -1,6 +1,11 @@
 # luminelle-webtech-project
 LuminElle is a comprehensive full-stack web application designed to help users organize, track, and optimize their skincare routines. Built with PHP and MySQL, it combines personalized skin analysis, routine tracking, product management, and an intelligent assistant to help users achieve their best skin yet.
 
+## Links
+*Live Server:*  http://169.239.251.102:341/~akua.amponsah/luminelle/
+
+*YouTube Demo:* https://youtu.be/fPRYB_i34eA
+
 ## Features
 ###  *Elle Guide - Skin Type Quiz*
 - Interactive 6-question quiz to determine your skin type
